@@ -1,0 +1,9 @@
+POST http://localhost:3000/usuarios
+Content-Type: application/json
+
+{
+    "tipoDocumento": 1,
+    "nombre": "Diego Ortiz",
+    "documento": "1126421561",
+    "rol": 1
+}
